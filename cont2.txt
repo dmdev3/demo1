@@ -3,3 +3,5 @@ the second one
 the thired
 the four
 the five
+the six
+and seven
